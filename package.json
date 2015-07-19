@@ -1,0 +1,24 @@
+{
+  "name": "koa-output",
+  "version": "1.0.0",
+  "description": "A middleware for koa to response",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jackong/koa-output.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "response"
+  ],
+  "author": "jackong <jackongc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jackong/koa-output/issues"
+  },
+  "homepage": "https://github.com/Jackong/koa-output"
+}
